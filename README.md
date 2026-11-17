@@ -1,11 +1,11 @@
-# Pdf-llm
+# Ask-Pdf
 
 This project is a full-stack application for PDF processing and question-answering using AI technologies. It consists of a Python backend API and a React frontend interface.
 
 ## 🏗️ Project Structure
 
 ```
-pdf-llm/
+Ask-Pdf/
 ├── backend/                 # Python Flask/FastAPI backend
 │   ├── main.py             # Main application entry point
 │   ├── clients/            # External service clients
